@@ -31,7 +31,7 @@ The detailed design section focuses on implementation details, data models, and 
 - **API Specifications**: Detailed documentation of APIs, including endpoints, request/response structures, and examples.
 - **ER Diagrams**: Entity-relationship diagrams showing the database structure.
 
-## Documentation
+<!-- ## Documentation
 
 This section contains detailed documentation for each design phase.
 
@@ -41,7 +41,7 @@ This section contains detailed documentation for each design phase.
 - [Use Cases](documentation/use-cases.md)
 - [Sequence Diagrams](documentation/sequence-diagrams.md)
 - [API Specifications](documentation/api-specifications.md)
-- [ER Diagrams](documentation/er-diagrams.md)
+- [ER Diagrams](documentation/er-diagrams.md) -->
 
 ## How to Use
 
