@@ -10,8 +10,8 @@ This document outlines the use cases for the system, describing how users intera
 
 
 ## Actors:
-1. **User**: This actor is someone looking for information about various activities.
-2. **Sharer**: This actor is responsible for sharing links to different channels on Discord.
+1. **Sharer**: This actor is responsible for sharing links to different channels on Discord.
+2. **User**: This actor is someone looking for information about various activities.
 
 ## Use Cases:
 
