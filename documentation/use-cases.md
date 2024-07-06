@@ -6,7 +6,7 @@ This document outlines the use cases for the system, describing how users intera
 
 ## Use Case Diagram
 
-![Use Case Diagram](/low-level-design\use-case-diagrams\use-case-diagram.svg)
+![Use Case Diagram](/low-level-design/use-case-diagrams/use-case-diagram.svg)
 
 
 ## Actors:

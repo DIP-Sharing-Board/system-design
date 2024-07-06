@@ -6,7 +6,7 @@ This document contains the Entity-Relationship (ER) diagrams for the database sc
 
 ## ER Diagram
 
-![ER Diagram](/detailed-design\er-diagrams\er-diagram.svg)
+![ER Diagram](/detailed-design/er-diagrams/er-diagram.svg)
 
 ## Entities
 
