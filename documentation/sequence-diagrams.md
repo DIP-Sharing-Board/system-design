@@ -7,7 +7,7 @@ This document contains the sequence diagrams for the system, illustrating how ob
 
 ## Sharer
 
-![Sharer Sequence Diagram](/low-level-design\sequence-diagrams\sharer-sequence-diagram.svg)
+![Sharer Sequence Diagram](/low-level-design/sequence-diagrams/sharer-sequence-diagram.svg)
 
 ### Description
 
@@ -39,7 +39,7 @@ This sequence of interactions ensures that the data shared in Discord is retriev
 
 ## Client
 
-![Client Sequence Diagram](/low-level-design\sequence-diagrams\client-sequence-diagram.svg)
+![Client Sequence Diagram](/low-level-design/sequence-diagrams/client-sequence-diagram.svg)
 
 ### Description
 

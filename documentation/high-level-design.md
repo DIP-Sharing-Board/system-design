@@ -6,7 +6,7 @@ This document provides a high-level overview of the system architecture, major c
 
 ## Architecture Diagram
 
-![High-Level Design](/high-level-design\architecture-diagrams\architecture-diagram.svg)
+![High-Level Design](/high-level-design/architecture-diagrams/architecture-diagram.svg)
 
 ### Components
 
@@ -19,4 +19,4 @@ This document provides a high-level overview of the system architecture, major c
 ##  Description
 Detailed documentation of system design, components, and architecture overviews.
 
-- [Detailed Documentation](/high-level-design\descriptions\system-design-description.md).
+- [Detailed Documentation](/high-level-design/descriptions/system-design-description.md).

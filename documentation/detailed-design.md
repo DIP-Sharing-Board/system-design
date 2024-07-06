@@ -14,4 +14,4 @@ Detailed documentation of APIs, including endpoints, request/response structures
 
 This document contains the Entity-Relationship (ER) diagrams for the database schema used in our system. The ER diagrams illustrate the structure of the database, including the entities, attributes, and relationships.
 
-- [Detailed Documentation](/documentation\er-diagrams.md)
+- [Detailed Documentation](/documentation/er-diagrams.md)
