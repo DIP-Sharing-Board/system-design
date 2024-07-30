@@ -44,13 +44,12 @@ paths:
               - camp
               - competition
               - other
-        - name: lastId
+        - name: updatedAt
           in: query
-          description: ID of the last data provided before.
+          description: Date of the last data provided before.
           required: false
           schema:
-            type: integer
-            default: 0
+            type: string
       responses:
         '200':
           description: OK
@@ -109,12 +108,14 @@ components:
             link: "https://www.instagram.com/p/C6OWaPLvYcs/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
             topic: "WOW co-creation : “Design Thinking Being Innovator”"
             imageUrl: "https://instagram.fbkk5-6.fna.fbcdn.net/v/t51.29350-15/440664177_1081626339563006_6264858901487224383_n.jpg?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmYyOTM1MCJ9&_nc_ht=instagram.fbkk5-6.fna.fbcdn.net&_nc_cat=102&_nc_ohc=XeqyL5x-u84Q7kNvgEoCMlc&edm=AFg4Q8wBAAAA&ccb=7-5&ig_cache_key=MzM1NDcxNzMyNjgwNzkzMjI5NQ%3D%3D.2-ccb7-5&oh=00_AYB0-zOt_K7dGiTY1FMWc4rxwBfdRwvLqO5xLNltBhF_4A&oe=668605EC&_nc_sid=0b30b7"
-            deadline: "2024-05-04 16:30:00"
+            deadline: "2023-11-20T10:55:54.000Z"
+            updatedAt: "2024-07-30T15:15:14.000Z"
           - id: 11
             link: "https://www.instagram.com/p/C6OWaPLvYcs/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
             topic: "WOW co-creation : “Design Thinking Being Innovator”"
             imageUrl: "https://instagram.fbkk5-6.fna.fbcdn.net/v/t51.29350-15/440664177_1081626339563006_6264858901487224383_n.jpg?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmYyOTM1MCJ9&_nc_ht=instagram.fbkk5-6.fna.fbcdn.net&_nc_cat=102&_nc_ohc=XeqyL5x-u84Q7kNvgEoCMlc&edm=AFg4Q8wBAAAA&ccb=7-5&ig_cache_key=MzM1NDcxNzMyNjgwNzkzMjI5NQ%3D%3D.2-ccb7-5&oh=00_AYB0-zOt_K7dGiTY1FMWc4rxwBfdRwvLqO5xLNltBhF_4A&oe=668605EC&_nc_sid=0b30b7"
-            deadline: "2024-05-04 16:30:00"
+            deadline: "2024-05-31T06:08:35.000Z"
+            updatedAt: "2024-07-30T15:12:37.000Z"
     SuccessResponse:
       type: object
       properties:
@@ -136,7 +137,7 @@ components:
           example: 400
         message:
           type: string
-          example: '"Invalid type {query value}" or "Invalid format lastId"'
+          example: '"Invalid type {query value}" or "Invalid format updatedAt"'
       xml:
         name: '##default'
     DatabaseFailedResponse:
